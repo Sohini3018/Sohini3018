@@ -34,7 +34,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sohini3018&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sohini3018&theme=vue-dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sohini3018&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohini3018&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 ### 🔝 Top Contributed Repo
